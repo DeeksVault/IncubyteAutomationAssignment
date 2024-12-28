@@ -19,7 +19,7 @@ Feature: User Login Functionality
   Scenario: Failed Login with invalid password
     Given I navigate to the login page
     When I enter invalid password
-    Then I should be thrown with an error
+    Then I errorshould be thrown with an
 
   Scenario: Failed Login with empty fields
     Given I navigate to the login page
