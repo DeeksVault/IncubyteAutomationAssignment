@@ -14,11 +14,8 @@ Attached the test cases file in the project directory with name testCases.xls
 
 ### 1. **Test Cases**
 Test cases will be documented in an Excel file. Each test case will include:
-- Test case ID
-- Description of the test case
-- Expected results
-- Actual results (for manual testing)
-- Status (Pass/Fail)
+- Test case
+- Execution Steps
 
 ### 2. **Automation Code**
 The automation code will be committed to the GitHub repository. The automation will use the following tools and frameworks:
