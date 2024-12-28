@@ -25,7 +25,7 @@ The automation code will be committed to the GitHub repository. The automation w
 - **BDD** (Behavior-Driven Development) for structuring test cases.
 - **POM** (Page Object Model) for structuring the test scripts.
 
-The code will be implemented using **Selenium** or **Cypress** based on the framework chosen.
+The code will be implemented using **Selenium**.
 
 ### 3. **Repository**
 The automation code can be accessed via the following GitHub repository:  
